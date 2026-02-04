@@ -1,8 +1,14 @@
 # 📝 Sandi's Modern To-Do List 2026
 
+<<<<<<< HEAD
 [![Project Status](https://img.shields.io/badge/Status-Active-00f2ff?style=for-the-badge)](https://github.com/sovernbaezit/Sandi-Prabowo-TodoList/actions)
 ![UI Style](https://img.shields.io/badge/UI-Glassmorphism-bf00ff?style=for-the-badge)
 ![Year](https://img.shields.io/badge/Year-2026-white?style=for-the-badge)
+=======
+![Project Status](https://img.shields.io/badge/STATUS-ACTIVE-00f2ff?style=for-the-badge)
+![UI Style](https://img.shields.io/badge/UI-GLASSMORPHISM-bf00ff?style=for-the-badge)
+![Year](https://img.shields.io/badge/YEAR-2026-white?style=for-the-badge)
+>>>>>>> d115ca13ca3b37e3ec5fb63c32f54ba2e4546e08
 
 Selamat datang di proyek **First-Step Frontend** saya! Aplikasi daftar tugas ini dirancang dengan antarmuka **Glassmorphism** yang modern dan futuristik, fokus pada kesederhanaan dan pengalaman pengguna yang lancar.
 
@@ -23,7 +29,11 @@ Selamat datang di proyek **First-Step Frontend** saya! Aplikasi daftar tugas ini
 
 ## 🌐 Live Demo
 Uji coba langsung pengalaman futuristik ini di sini:
+<<<<<<< HEAD
 > **🚀 [KLIK DI SINI UNTUK DEMO WEBSITE](https://sovernbaezit.github.io/Sandi-Prabowo-Todo-List/beginner/)**
+=======
+> **🚀 [KLIK DI SINI UNTUK DEMO WEBSITE](https://sovernbaezit.github.io/Sandi-Prabowo-TodoList/beginner/)**
+>>>>>>> d115ca13ca3b37e3ec5fb63c32f54ba2e4546e08
 
 ---
 
@@ -42,7 +52,11 @@ Berikut adalah cuplikan antarmuka dari **ZenNeon Edition 2026**:
 
 ## 📂 Struktur Proyek
 ```text
+<<<<<<< HEAD
 MyFirst-Modern-TodoList/
+=======
+Sandi-Prabowo-TodoList/
+>>>>>>> d115ca13ca3b37e3ec5fb63c32f54ba2e4546e08
 ├── beginner/
 │   ├── index.html
 │   ├── styles.css
