@@ -31,11 +31,11 @@ Uji coba langsung pengalaman futuristik ini di sini:
 Berikut adalah cuplikan antarmuka dari **ZenNeon Edition 2026**:
 
 ### 🔹 Tampilan Input & Header
-![Preview 1](picture-TodoList1.png)
+![Preview 1](beginner/picture-TodoList1.png)
 *Antarmuka simetris dengan efek neon yang menyala pada nama pengguna.*
 
 ### 🔹 Kategori & Aktivitas Aktif
-![Preview 2](picture-TodoList2.png)
+![Preview 2](beginner/picture-TodoList2.png)
 *Detail pemilihan kategori Business & Personal dengan indikator Glow.*
 
 ---
