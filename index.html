@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="id"> <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Aplikasi ZenTask 2026 - Minimalist Productivity Tool">
+    <title>ZenTask 2026 | Focus & Flow</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Montserrat:wght@700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <main class="app-container">
+        
+        <header class="greeting-section">
+            <h1 class="title">
+                Halo, 
+                <input type="text" id="name" placeholder="Siapa namamu?" aria-label="Nama Pengguna" autocomplete="off" />
+            </h1>
+            <div class="status-bar">
+                <p id="current-date" class="date-text"></p>
+                <span class="badge" id="task-count">0 Tugas</span>
+            </div>
+        </header>
+
+        <section class="create-todo-card">
+            <form id="new-todo-form" autocomplete="off">
+                <div class="input-wrapper">
+                    <h3>APA TARGETMU?</h3>
+                    <input type="text" name="content" id="content" placeholder="Selesaikan proyek ini..." required />
+                </div>
+
+                <div class="category-selection">
+                    <p class="label-text">Pilih Kategori</p>
+                    <div class="options-wrapper">
+                        
+                        <label class="category-item" title="Tugas Pekerjaan">
+                            <input type="radio" name="category" value="business" required /> 
+                            <span class="bubble business"></span> <span class="text">Bisnis</span>
+                        </label>
+
+                        <label class="category-item" title="Tugas Pribadi">
+                            <input type="radio" name="category" value="personal" />
+                            <span class="bubble personal"></span> <span class="text">Personal</span>
+                        </label>
+                    </div>
+                </div>
+
+                <button type="submit" class="submit-btn">
+                    <span>Tambahkan Tugas</span>
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <line x1="12" y1="5" x2="12" y2="19"></line>
+                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                    </svg>
+                </button>
+            </form>
+        </section>
+
+        <section class="todo-list-section">
+            <div class="list-header">
+                <h3>DAFTAR AKTIVITAS</h3>
+            </div>
+            
+            <div class="list-container" id="todo-list" role="list">
+                </div>
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
