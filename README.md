@@ -23,7 +23,7 @@ Selamat datang di proyek **First-Step Frontend** saya! Aplikasi daftar tugas ini
 
 ## 🌐 Live Demo
 Uji coba langsung pengalaman futuristik ini di sini:
-> **🚀 [KLIK DI SINI UNTUK DEMO WEBSITE](https://sovernbaezit.github.io/Sandi-Prabowo-TodoList/beginner/)**
+> **🚀 [KLIK DI SINI UNTUK DEMO WEBSITE](https://sovernbaezit.github.io/Sandi-Prabowo-Todo-List/beginner/)**
 
 ---
 
