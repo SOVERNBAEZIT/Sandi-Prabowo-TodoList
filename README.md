@@ -1,6 +1,6 @@
 # 📝 Sandi's Modern To-Do List 2026
 
-![Project Status](https://img.shields.io/badge/Status-Active-00f2ff?style=for-the-badge)
+[![Project Status](https://img.shields.io/badge/Status-Active-00f2ff?style=for-the-badge)](https://github.com/sovernbaezit/Sandi-Prabowo-TodoList/actions)
 ![UI Style](https://img.shields.io/badge/UI-Glassmorphism-bf00ff?style=for-the-badge)
 ![Year](https://img.shields.io/badge/Year-2026-white?style=for-the-badge)
 
@@ -23,7 +23,7 @@ Selamat datang di proyek **First-Step Frontend** saya! Aplikasi daftar tugas ini
 
 ## 🌐 Live Demo
 Uji coba langsung pengalaman futuristik ini di sini:
-> **[DEMO WEBSITE](https://sandipratama.github.io/MyFirst-Modern-TodoList/beginner/)**
+> **🚀 [KLIK DI SINI UNTUK DEMO WEBSITE](https://sovernbaezit.github.io/Sandi-Prabowo-TodoList/beginner/)**
 
 ---
 
@@ -44,7 +44,9 @@ Berikut adalah cuplikan antarmuka dari **ZenNeon Edition 2026**:
 ```text
 MyFirst-Modern-TodoList/
 ├── beginner/
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+├── picture-TodoList1.png
+├── picture-TodoList2.png
 └── README.md
